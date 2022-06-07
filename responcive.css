@@ -1,0 +1,133 @@
+
+@media ( min-width:1200px ) and ( max-width:1399px ){
+
+}
+
+@media ( min-width:992px ) and ( max-width:1199px ){
+    .counter-section {
+        margin-top: 15px;
+    }
+    .testimonial-section {
+        padding: 14px;
+    }
+    .text {
+        width: 455px;
+    }
+}
+
+@media ( min-width:768px ) and ( max-width:991px ){
+    .nav-link {
+        padding: 10px 5px !important;
+    }
+    .about-section .img-thumbnail {
+        margin-top: 75px;
+    }
+    .about-section {
+        padding-top: 30px;
+      }
+    .about-contan {
+        padding-top: 0px;
+    }
+    .about-contan .h6 {
+        margin-bottom: 0;
+    }
+    .about-contan .h6 {
+        margin-bottom: 0;
+    }
+    .counter-section {
+        margin-top: 15px;
+    }
+    .testimonial-section {
+        padding: 35px;
+    }
+    .blog-section {
+        padding-bottom: 0px;
+    }
+    .b-item{
+        margin-bottom: 80px;
+    }
+    .text {
+        width: 335px;
+    }
+    .nem {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media ( min-width:576px ) and ( max-width:767px ){
+    .banner-contan {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-image {
+        width: 80%;
+        margin: auto;
+    }
+    .about-contan {
+        padding-top: 15px;
+        text-align: center;
+    }
+    .counter-section {
+        margin-top: 15px;
+    }
+    .counter-contan {
+        margin-bottom: 25px;
+    }
+    .testimonial-section {
+        padding: 0;
+    }
+    .t-contan {
+        margin-bottom: 20px;
+    }
+    .blog-section {
+        padding-bottom: 40px;
+    }
+    .b-item{
+        margin-bottom: 80px;
+    }
+    .text {
+        width: 515px;
+    }
+    .nem {
+        margin-bottom: 20px;
+    }
+
+}
+
+@media ( max-width:575px ){
+    .banner-contan {
+        padding-top: 23px;
+        text-align: center;
+    }
+    .banner-image {
+        width: 80%;
+        margin: auto;
+    }
+    .about-contan {
+        padding-top: 15px;
+        text-align: center;
+    }
+    .counter-section {
+        margin-top: 15px;
+    }
+    .counter-contan {
+        margin-bottom: 25px;
+    }
+    .testimonial-section {
+        padding: 0;
+    }
+    .t-contan {
+        margin-bottom: 20px;
+    }
+    .blog-section {
+        padding-bottom: 40px;
+    }
+    .b-item{
+        margin-bottom: 80px;
+    }
+    .nem {
+        margin-bottom: 20px;
+    }
+}
+

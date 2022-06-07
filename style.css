@@ -1,0 +1,134 @@
+
+/* NAV SECTION START */
+.navbar img {
+    width: 85px;
+  }
+
+/* NAV SECTION END */
+
+/* BANNER SECTION START */
+
+.banner-section{
+    background-color: #F9F9FF;
+} 
+
+.banner-contan{
+
+    padding-top: 161px;
+}
+
+.banner-image img{
+    max-width: 100%;
+} 
+
+
+/* BANNER SECTION END */
+
+/* ABOUT SECTION START */
+
+.about-section{
+    padding-top: 50px;
+}
+ 
+.about-contan{
+    
+    padding-top: 50px;
+}
+/* ABOUT SECTION END */
+
+/* COUNTER SECTION SRART */
+.counter-section{
+
+    background-color: #8490FF;
+    color: #fff;
+    padding-top: 35px;
+} 
+
+.counter-contan{
+    text-align: center;
+    
+}
+
+.counter-contan h1{
+    font-weight: bold;
+}
+
+/* COUNTER SECTION END */
+
+
+/* TESTIMONIAL SECTION START */
+
+.testimonial-section{
+    background-color: #F9F9FF;
+    padding: 50px;
+}
+
+.t-contan{
+    background-color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+ 
+.t-contan h3{
+    text-align: center;
+    line-height: 64px;
+}
+
+/* .col-lg-4{
+    background-color: #fff;
+} */
+
+/* TESTIMONIAL SECTION END */
+
+
+
+
+
+/* FORM SECTION START */
+
+.inner-form{
+    background-color: #fff;
+}
+.form-section{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #F9F9FF;
+}
+
+.i-form{
+    background-color: #fff;
+}
+
+.form{
+    padding-top: 30px;
+}  
+
+.form-contan{
+    
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+.text {
+	width: 545px;
+}
+/* FORM SECTION END */
+
+/* BLOG SECTION START */
+
+.blog-section{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.blog-section img {
+    width: 100px;
+    position: absolute;
+    top: -60px;
+    left: 28px;
+    
+}  
+
+.blog-section .col-lg-3{
+    position: relative;
+}
+
